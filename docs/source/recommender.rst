@@ -5,6 +5,11 @@ Recommender algorithms module
 
 Recommender system algorithms and utilities.
 
+Cornac
+===============================
+
+.. automodule:: reco_utils.recommender.cornac.cornac_utils
+    :members:
 
 DeepRec
 ===============================
@@ -18,10 +23,10 @@ DeepRec
 .. automodule:: reco_utils.recommender.deeprec.models.xDeepFM
     :members:
 
-.. automodule:: reco_utils.recommender.deeprec.IO.iterator
+.. automodule:: reco_utils.recommender.deeprec.io.iterator
     :members:
 
-.. automodule:: reco_utils.recommender.deeprec.IO.dkn_iterator
+.. automodule:: reco_utils.recommender.deeprec.io.dkn_iterator
     :members:
 
 .. automodule:: reco_utils.recommender.deeprec.deeprec_utils
